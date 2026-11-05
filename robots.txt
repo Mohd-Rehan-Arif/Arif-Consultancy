@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arifconsultancy.in/sitemap.xml
